@@ -20,3 +20,5 @@ Para el tema del envio de email se utilizo a Gmail debido a que no presento prob
 # Documentacion
 
 Documentacion hecha con Swagger-ui V3, en ella esta descrito todos las peticiones que se pueden realizar.
+
+![ScreenShot](https://github.com/AlfredRdz/Challenge/blob/main/Screenshot%202022-01-27%20at%2014-14-03%20Swagger%20UI.png)
